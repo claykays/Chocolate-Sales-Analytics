@@ -1,2 +1,2 @@
 # Data-Analytics
-Thisis the repository for my portfolio projects for data analytics 
+This is the repository for my first portfolio project that i did using Excel.
