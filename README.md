@@ -1,4 +1,4 @@
-# Chocolate Sales Analytics
+# Chocolate Sales Analysis. 
 This is the repository for my first portfolio project that i did using Excel.
 Please find attached the presantation (Sales Data Analysis for Chocolate Dataset.pptx).
 
